@@ -62,17 +62,13 @@ The following resources and tutorials were used as learning material and inspira
 
 ### YouTube Tutorials
 
-1. Car Controller & Wheel Collider Setup (Detailed) 
-   https://youtu.be/YyFx5HDbgSU?si=BTUYjqB_y3jAyaA_
+1. Car Controller & Wheel Collider Setup (Detailed) https://youtu.be/YyFx5HDbgSU?si=BTUYjqB_y3jAyaA_
 
-2. City / Environment Building in Unity  
-   https://youtu.be/hSe8vnKeOK8?si=-AdF-SBJddbkNU1X
+2. City / Environment Building in Unity https://youtu.be/hSe8vnKeOK8?si=-AdF-SBJddbkNU1X
 
-3. PS1 / Retro Visual Style in Unity  
-   https://youtu.be/gEwNHUDc8uE?si=Ln9QU56E6TGyeI_-
+3. PS1 / Retro Visual Style in Unity https://youtu.be/gEwNHUDc8uE?si=Ln9QU56E6TGyeI_-
 
-4. Basic Car Controller Setup 
-   https://youtu.be/AzdpRKtkFTE?si=pYCzmg5t6YNWqzT-
+4. Basic Car Controller Setup https://youtu.be/AzdpRKtkFTE?si=pYCzmg5t6YNWqzT-
 
 ### Unity Documentation
 

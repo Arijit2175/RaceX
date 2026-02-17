@@ -24,6 +24,7 @@ The main goal of this project was to learn vehicle physics, environment design, 
 | A / Left Arrow | Steer Left |
 | D / Right Arrow | Steer Right |
 | R | Reset scene |
+| Esc | Close the game |
 | Mouse | Click Play button |
 
 ---

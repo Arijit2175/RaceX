@@ -46,3 +46,12 @@ This project was created for learning purposes:
 
 ---
 
+## 🔍 Preview
+
+This game features a low-poly PS1-inspired city environment with a drivable car and retro visual effects.
+
+### Dev Preview
+![Dev](Screenshots/sc1.png)
+
+---
+

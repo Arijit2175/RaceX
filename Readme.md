@@ -28,3 +28,11 @@ The main goal of this project was to learn vehicle physics, environment design, 
 
 ---
 
+## 🛠 Built With
+- Unity 2022.3 LTS
+- URP (Universal Render Pipeline)
+- C#
+- Retro PS1 shader pack
+
+---
+

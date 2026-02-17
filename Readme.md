@@ -36,3 +36,13 @@ The main goal of this project was to learn vehicle physics, environment design, 
 
 ---
 
+## 🎯 Goal of the Project
+This project was created for learning purposes:
+- Car physics
+- Terrain & environment design
+- Post-processing & shaders
+- UI systems
+- Audio integration
+
+---
+

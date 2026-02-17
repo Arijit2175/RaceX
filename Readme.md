@@ -16,3 +16,15 @@ The main goal of this project was to learn vehicle physics, environment design, 
 
 ---
 
+## 🕹 Controls
+| Key | Action |
+|-----|--------|
+| W / Up Arrow | Accelerate |
+| S / Down Arrow | Brake / Reverse |
+| A / Left Arrow | Steer Left |
+| D / Right Arrow | Steer Right |
+| R | Reset scene |
+| Mouse | Click Play button |
+
+---
+

@@ -55,3 +55,40 @@ This game features a low-poly PS1-inspired city environment with a drivable car 
 
 ---
 
+## 📚 References
+
+The following resources and tutorials were used as learning material and inspiration during development:
+
+### YouTube Tutorials
+
+1. Car Controller & Wheel Collider Setup  
+   https://youtu.be/YyFx5HDbgSU?si=BTUYjqB_y3jAyaA_
+
+2. City / Environment Building in Unity  
+   https://youtu.be/hSe8vnKeOK8?si=-AdF-SBJddbkNU1X
+
+3. PS1 / Retro Visual Style in Unity  
+   https://youtu.be/gEwNHUDc8uE?si=Ln9QU56E6TGyeI_-
+
+4. UI & Play Button / Camera Setup  
+   https://youtu.be/AzdpRKtkFTE?si=pYCzmg5t6YNWqzT-
+
+### Unity Documentation
+
+5. Unity Documentation – Wheel Colliders  
+   https://docs.unity3d.com/Manual/class-WheelCollider.html
+
+6. Unity Documentation – Rigidbody Physics  
+   https://docs.unity3d.com/Manual/class-Rigidbody.html
+
+7. Unity Documentation – Terrain System  
+   https://docs.unity3d.com/Manual/script-Terrain.html
+
+8. Unity UI System Documentation  
+   https://docs.unity3d.com/Manual/UISystem.html
+
+9. Unity Audio System Documentation  
+   https://docs.unity3d.com/Manual/Audio.html
+
+<br>
+
